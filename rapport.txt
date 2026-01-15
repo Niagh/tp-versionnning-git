@@ -1,0 +1,3 @@
+2° La commande la plus utile je trouve que c'est la commande git log pour voir tout ce que j'ai fait, les msgs + les idtfs de commits.
+1° J'ai appris à utiliser log, revert, stash, reset, commit --amend. pour gérer l'historique proprement.
+3° La partie la plus dur a été d'annuler un commit proprement sans avoir peur de supp l'historique.
